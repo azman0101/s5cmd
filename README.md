@@ -269,6 +269,9 @@ ERROR "cp s3://somebucket/file.txt file.txt": object already exists
     }
 ```
 
+TODO:
+
+ * Add TTL backup management
 # LICENSE
 
 MIT. See [LICENSE](https://github.com/peak/s5cmd/blob/master/LICENSE).
